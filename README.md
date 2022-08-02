@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manjeet Singh
 - 👀 I’m interested in full-stack developer role
 - 🌱 I’m currently learning Node js for backend development and React for the frontend development
-- 📫 How to reach me manjeetsinghmzn2002@gmail.com
+- 📫 Reach me at manjeetsinghmzn2002@gmail.com
 
 <!---
 manu101018/manu101018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
