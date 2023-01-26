@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manjeet Singh
 - 👀 I’m interested in full-stack developer role
-- 🌱 I’m currently learning Node js for backend development and React for the frontend development
+- 🌱 I’m currently working on Node.js for backend development and ReactJs for the frontend development
 - 📫 Reach me at manjeetsinghmzn2002@gmail.com
 
 <!---
